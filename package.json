@@ -1,0 +1,25 @@
+{
+  "name": "propine-2b-boilerplate",
+  "version": "1.0.0",
+  "description": "propine test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conglq/Propine-2b-boilerplate.git"
+  },
+  "author": "Cong Le",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/conglq/Propine-2b-boilerplate/issues"
+  },
+  "homepage": "https://github.com/conglq/Propine-2b-boilerplate#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "fast-csv": "^4.3.6"
+  }
+}
